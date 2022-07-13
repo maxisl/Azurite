@@ -101,9 +101,6 @@ Azurite natively supports HTTPS with self-signed certificates via the `--cert` a
 
 ## Usage with Azure Storage SDKs or Tools
 
-
-### Default Storage Account / Customized Storage Accounts & Keys
-
 ### Default Storage Account
 
 Azurite V3 provides support for a default storage account as General Storage Account V2 and associated features.
