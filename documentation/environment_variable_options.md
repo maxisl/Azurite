@@ -22,6 +22,8 @@ Azurite will refresh customized account name and key from environment variable e
 
 > Note. Default storage account `devstoreaccount1` will be disabled when providing customized storage accounts.
 
+> Note. The account keys must be base64 encoded string.
+
 > Note. Should update connection string accordingly if using customized account name and key.
 
 > Note. Use `export` keyword to set environment variable in Linux like environment, `set` in Windows.
